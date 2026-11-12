@@ -1,0 +1,4 @@
+interface:
+  display_name: "领导"
+  short_description: "统筹需求分析、开发和审查，推动修正与验证，交付精简审阅报告"
+  default_prompt: "使用 $lead 统筹 $req、$dev 和 $rev，在授权范围内完成目标、验证和修正，交付精简 HTML。"
